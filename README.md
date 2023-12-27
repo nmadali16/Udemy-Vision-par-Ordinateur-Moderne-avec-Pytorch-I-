@@ -9,10 +9,12 @@ Bienvenue au cours de Vision par Ordinateur! Ce cours explore en profondeur les 
 
 4. **Transfert d'Apprentissage** : Apprendre à utiliser le transfert d'apprentissage pour bénéficier des connaissances préalables des modèles pour des tâches spécifiques de vision par ordinateur.
 
-5. **Augmentation de Données** : Comprendre l'importance de l'augmentation de données pour améliorer les performances des modèles et explorer différentes techniques.
+5. **Hyperparameters tuning** : Optimiser les différents paramètres impliqués dans la conception et la formation du modèle.
 
-6. **Réseaux Neuronaux Transformer** : Découvrir les bases des réseaux neuronaux Transformer et leur application dans la vision par ordinateur pour des tâches telles que la reconnaissance d'images et la génération de texte à partir d'images.
+6. **Augmentation de Données** : Comprendre l'importance de l'augmentation de données pour améliorer les performances des modèles et explorer différentes techniques.
 
-7. **Mise en projet avec un Projet Kaggle** : Résolvez un concours de classification d'images du site Kaggle en mettant en pratique toutes les connaissances apprises jusqu'à présent.
-8. 
+7. **Réseaux Neuronaux Transformer** : Découvrir les bases des réseaux neuronaux Transformer et leur application dans la vision par ordinateur pour des tâches telles que la reconnaissance d'images et la génération de texte à partir d'images.
+
+8. **Mise en projet avec un Projet Kaggle** : Résolvez un concours de classification d'images du site Kaggle en mettant en pratique toutes les connaissances apprises jusqu'à présent.
+
 Ce cours offre une combinaison d'études théoriques, de travaux pratiques et de projets pour permettre aux étudiants de maîtriser ces concepts et de les appliquer dans des scénarios réels de vision par ordinateur. Rejoignez-nous pour plonger dans le monde passionnant de la vision par ordinateur et de ses applications novatrices!
